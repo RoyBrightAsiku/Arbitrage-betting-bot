@@ -1,7 +1,7 @@
 # Arbitrage-betting
 Enjoy passive income with a bot
 
-#################################### INSTRUCTIONS FOR THE SMOOTH RUNNING OF THE BOT ##################################################
+############ INSTRUCTIONS FOR THE SMOOTH RUNNING OF THE BOT #########
 
 You will need to create an account with Coral and OddsMonkey and preferably with the same password and email for the bot to work.
 You will have to subscribe for the premium OddsMonkey too.
